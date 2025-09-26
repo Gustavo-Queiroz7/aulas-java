@@ -6,6 +6,6 @@ public class BoletimEstudantil {
         else if (mediaFinal ==6)
             System.out.println("Prova Minerva");
         else
-            System.out.println("Aprovado");
+            System.out.println("Aprovado");//teste git
     }
 }
